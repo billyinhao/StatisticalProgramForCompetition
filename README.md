@@ -1,0 +1,2 @@
+# StatisticalProgramForCompetition
+运动会竞赛成绩统计程序
