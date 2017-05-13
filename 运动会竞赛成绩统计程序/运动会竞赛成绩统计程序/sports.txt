@@ -1,0 +1,36 @@
+m800
+xinxi guofang ruanjian caiye gongguan waiyu shengke mazhe
+w800
+xinxi guofang gongguan caiye shengke mazhe ruanjian waiyu
+m100
+xinxi guofang shengke mazhe waiyu caiye gongguan ruanjian
+w100
+xinxi gongguan waiyu guofang ruanjian caiye shengke mazhe
+m1500
+xinxi shengke gongguan guofang mazhe caiye waiyu ruanjian
+wsitup
+xinxi guofang ruanjian shengke caiye mazhe waiyu gongguan
+mhjump
+xinxi guofang waiyu mazhe ruanjian gongguan shengke caiye
+whjump
+xinxi caiye ruanjian shengke waiyu gongguan guofang mazhe
+mljump
+xinxi gongguan mazhe waiyu ruanjian guofang caiye shengke
+wljump
+xinxi guofang gongguan mazhe ruanjian waiyu shengke caiye
+mtjump
+xinxi mazhe waiyu ruanjian guofang shengke caiye gongguan
+wtjump
+xinxi ruanjian shengke caiye gongguan guofang waiyu mazhe
+mball
+xinxi guofang gongguan mazhe shengke ruanjian waiyu caiye
+wball
+xinxi guofang waiyu mazhe ruanjian caiye shengke gongguan
+mmara
+xinxi guofang caiye mazhe ruanjian shengke gongguan waiyu
+wmara
+xinxi guofang shengke caiye waiyu mazhe gongguan ruanjian
+m4*100
+xinxi gongguan guofang caiye ruanjian shengke mazhe waiyu
+w4*100
+xinxi guofang waiyu gongguan caiye shengke mazhe ruanjian
